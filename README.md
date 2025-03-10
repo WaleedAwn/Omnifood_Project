@@ -98,5 +98,6 @@ Sign up for a **free sample meal** and start your healthy eating journey today! 
 - **🎨 CSS** for styling  
 - **🛠️ JavaScript** for interactivity
 
+**Demo:** https://waleedawn.github.io/Omnifood_Project/
 
 
